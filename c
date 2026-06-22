@@ -37,7 +37,7 @@ public class App {
     }
 }
 
-nano AppTest.java
+nano AppTest.java inside
 
 package com.example;
 
